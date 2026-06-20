@@ -1,0 +1,16 @@
+{
+  "name": "com.alexmalyutin.smaa-hdrp",
+  "displayName": "Enhanced SMAA",
+  "version": "0.0.1",
+  "unity": "6000.4",
+  "description": "Enhanced Subpixel Morphological Antialiasing for HDRP.\nBased on http://www.iryoku.com/smaa/",
+  "dependencies": {
+    "com.unity.render-pipelines.core": "17.4.0",
+    "com.unity.render-pipelines.high-definition": "17.4.0"
+  },
+  "author": {
+    "name": "Alex Malyutin",
+    "url": "https://github.com/alexmalyutindev",
+    "email": "alex.malyutin.dev@gmail.com"
+  }
+}
